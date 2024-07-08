@@ -1,2 +1,2 @@
 # BakaBars
-This is a WoW UI addon project
+This is a WoW UI addon project by Bakatwa-Area52.
